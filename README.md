@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saamkeloshezi313
+- 👋 Hi, I’m @Buyiselo Samkelo Shezi
 - 👀 I’m interested in IT, AI, ML and Operating systems
 - 🌱 I’m currently learning ICT @ DUT
 - 💞️ I’m looking to collaborate on fun engaging projects on Web Dev and any cool IT related project
